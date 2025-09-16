@@ -15,3 +15,4 @@ spec:
       - image: nginx
         name: nginx
   replicas: 3
+  
